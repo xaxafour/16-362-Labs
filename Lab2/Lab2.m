@@ -1,6 +1,6 @@
-clear;
-rosshutdown;
-robot = neato('pico');
+%clear;
+%rosshutdown;
+%robot = neato('pico');
 
 %counting numbers
 x=zeros(1,1);
